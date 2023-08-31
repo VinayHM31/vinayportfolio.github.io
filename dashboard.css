@@ -548,6 +548,7 @@ img{
     .static-heading{
         font-size: 20px;
         width: 100%;
+        font-family: 'Times New Roman', Times, serif;
     }
     
     @keyframes typing {
@@ -614,10 +615,12 @@ img{
 
     .text h1{
         font-size: 30px;
+        font-family: 'Josefin Sans', sans-serif;
     }
 
     .text h2{
         font-size: 25px;
+        font-family: 'Josefin Sans', sans-serif;
     }
 
     .socialmedia-icons{
@@ -672,6 +675,7 @@ img{
         margin-top: 10px;
         font-size: 16px;
         line-height: 30px;
+        font-family: 'Times New Roman', Times, serif;
     }
 
     .sumne{
@@ -680,6 +684,10 @@ img{
 
     .Experience{
         width: 100%;
+    }
+
+    .experience-heading{
+        font-family: 'Josefin Sans', sans-serif;
     }
 
     .Experience-main-div{
@@ -728,4 +736,18 @@ img{
     .social-icons a i{
         font-size: 25px;
     }
+
+    .projects p,
+    .projects h1{
+        font-family: 'Josefin Sans', sans-serif;
+    }
+
+    .project-card p{
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .contact-form{
+        font-family: 'Josefin Sans', sans-serif;
+    }
+
 }
